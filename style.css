@@ -1,0 +1,32 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.picture-box{
+	height:800px;
+	width:1000px;
+	
+	margin:0 auto;
+}
+.pic1{
+	background-image:url(img/box1.jpg);
+	height:200px;
+}
+.pic2{
+	background-image:url(img/box2.jpg);
+	height:200px;
+}
+.pic3{
+	background-image:url(img/box3.jpg);
+	height:200px;
+}
+.pic4{
+	background-image:url(img/box4.jpg);
+	height:200px;
+}
+.all{
+	background-size:cover;
+	background-position:center;
+	background-color :rgba(0,0,0,0.5);
+}
